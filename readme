@@ -1,3 +1,11 @@
-[Home](https://github.com/rsbox24/agenda20210701/wiki)
-
 Agenda
+-----------------------------------
+ESP32跟Pi連接RAK LoRa Module 跟感測器(RS485 溫濕度' Mod bus 溫濕度'土壤溫濕度電導度)簡介 ==> Tony
+
+LORA後台功能簡介 ==> Tony 
+
+群登LoRa Module應用簡介 ==> Kenneth 
+
+MCU SAMD21G18 (ARM M0 MCU)連接BG77 module(NBIOT + LTE CAT M1 + GPS)專案簡介 ==> 茂青
+
+(switch to wiki [see top bar in center])
